@@ -1,0 +1,14 @@
+/home/gbertoso/RiderProjects/MyThirdApp/MyThirdApp/obj/Debug/net9.0/MyThirdApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/gbertoso/RiderProjects/MyThirdApp/MyThirdApp/obj/Debug/net9.0/MyThirdApp.AssemblyInfoInputs.cache
+/home/gbertoso/RiderProjects/MyThirdApp/MyThirdApp/obj/Debug/net9.0/MyThirdApp.AssemblyInfo.cs
+/home/gbertoso/RiderProjects/MyThirdApp/MyThirdApp/obj/Debug/net9.0/MyThirdApp.csproj.CoreCompileInputs.cache
+/home/gbertoso/RiderProjects/MyThirdApp/MyThirdApp/bin/Debug/net9.0/MyThirdApp
+/home/gbertoso/RiderProjects/MyThirdApp/MyThirdApp/bin/Debug/net9.0/MyThirdApp.deps.json
+/home/gbertoso/RiderProjects/MyThirdApp/MyThirdApp/bin/Debug/net9.0/MyThirdApp.runtimeconfig.json
+/home/gbertoso/RiderProjects/MyThirdApp/MyThirdApp/bin/Debug/net9.0/MyThirdApp.dll
+/home/gbertoso/RiderProjects/MyThirdApp/MyThirdApp/bin/Debug/net9.0/MyThirdApp.pdb
+/home/gbertoso/RiderProjects/MyThirdApp/MyThirdApp/obj/Debug/net9.0/MyThirdApp.dll
+/home/gbertoso/RiderProjects/MyThirdApp/MyThirdApp/obj/Debug/net9.0/refint/MyThirdApp.dll
+/home/gbertoso/RiderProjects/MyThirdApp/MyThirdApp/obj/Debug/net9.0/MyThirdApp.pdb
+/home/gbertoso/RiderProjects/MyThirdApp/MyThirdApp/obj/Debug/net9.0/MyThirdApp.genruntimeconfig.cache
+/home/gbertoso/RiderProjects/MyThirdApp/MyThirdApp/obj/Debug/net9.0/ref/MyThirdApp.dll
